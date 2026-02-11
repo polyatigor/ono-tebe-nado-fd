@@ -310,6 +310,7 @@
     align-self: center;
     padding-top: 8px;
 }
+
 .about__text {
     display: grid;
     row-gap: 24px;
